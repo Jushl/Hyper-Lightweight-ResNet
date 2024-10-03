@@ -1,7 +1,7 @@
 # Hyper Efficient Net
 Hyper Efficient Neural Networks towards Spike-Driven Deep Residual Learning
 
-![image](fig/results.pdf)
+![image](fig/results.png)
 
 Comparison with other state-of-the-art SNNs
 
