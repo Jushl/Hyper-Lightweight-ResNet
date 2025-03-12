@@ -1,9 +1,6 @@
 # Hyper Lightweight ResNet
 Hyper Lightweight Neural Networks towards Spike-Driven Deep Residual Learning
 
-![image](fig/results.png)
-
-Comparison with other state-of-the-art SNNs
 
 ## Conda Installation
 We train our models under`python=3.7,pytorch=1.9.1,cuda=11.6`. 
