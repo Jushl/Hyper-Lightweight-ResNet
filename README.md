@@ -1,5 +1,5 @@
-# Hyper Efficient Net
-Hyper Efficient Neural Networks towards Spike-Driven Deep Residual Learning
+# Hyper Lightweight ResNet
+Hyper Lightweight Neural Networks towards Spike-Driven Deep Residual Learning
 
 ![image](fig/results.png)
 
@@ -19,13 +19,13 @@ Follow the instruction on  [https://pytorch.org/get-started/locally/](https://py
 
 
 # Demo
-1. We have put our model checkpoints here [HENet: Goole Drive](https://drive.usercontent.google.com/download?id=1UQ7jk1GUJYarDhvObohmMNj3JHivVorv&export=download&authuser=0&confirm=t&uuid=6821aac4-2743-4573-8c6b-86ed173abf86&at=AN_67v066gnoSzf4-9v4-p8-_0oZ:1727928252909)
+1. We have put our model checkpoints here [HLNet: Goole Drive](https://drive.usercontent.google.com/download?id=1UQ7jk1GUJYarDhvObohmMNj3JHivVorv&export=download&authuser=0&confirm=t&uuid=6821aac4-2743-4573-8c6b-86ed173abf86&at=AN_67v066gnoSzf4-9v4-p8-_0oZ:1727928252909)
 
 2. Please download weights and organize them as following:
 weights
 
-&emsp;  └── HE-ResNet/
+&emsp;  └── HL-ResNet/
 
-&emsp;&emsp;&emsp;&emsp;&emsp; └── HE-ResNet18.pth
+&emsp;&emsp;&emsp;&emsp;&emsp; └── HL-ResNet18.pth
 
 4.  Run train.py and the results in `weights/xxx.pth`.
